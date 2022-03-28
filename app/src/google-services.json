@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035176136994",
+    "project_id": "havis-dc642",
+    "storage_bucket": "havis-dc642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035176136994:android:dacc3b6c62d74c5d0b157b",
+        "android_client_info": {
+          "package_name": "com.example.havis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035176136994-361l6s4flgkqqa1i0jjgatib9og60p6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLaeJkdeOme8xKop0wBUJO6Q66z7ctSqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035176136994-361l6s4flgkqqa1i0jjgatib9og60p6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
